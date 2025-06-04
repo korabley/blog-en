@@ -1,5 +1,5 @@
 ---
-title: Korabley Devblogs
+title: Mir Korabley Devblogs
 ---
 
-English translation for [Mir Korabley Devblogs](blog.korabli.su).
+English translation for [Mir Korabley Devblogs](https://blog.korabli.su/).
