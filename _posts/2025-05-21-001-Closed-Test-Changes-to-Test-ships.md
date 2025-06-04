@@ -8,7 +8,7 @@ permalink: /20250521-001/
 
 We continue to fine-tune the ships based on the test results. The changes will affect the French submarines and destroyers Forbin and Robespierre, as well as the Soviet battleship Red Banner.
 
-The following changes will go live on Thursday, May 22, as well as the second phase of the 25.6 Public Test:
+The following changes will go live on Thursday (May 22), as well as the second phase of the 25.6 Public Test:
 
 Tier IX French Destroyer **FORBIN**:
 
