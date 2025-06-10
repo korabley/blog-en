@@ -4,6 +4,8 @@ date: 2025-05-21
 permalink: /20250521-001/
 ---
 
+[Original Post](https://blog.korabli.su/blog/611)
+
 # CLOSED TEST - CHANGES TO TEST SHIPS
 
 We continue to fine-tune the ships based on the test results. The changes will affect the French submarines and destroyers Forbin and Robespierre, as well as the Soviet battleship Red Banner.
